@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wrestling-edge.com/wp-content/uploads/2020/08/UFC-Logo.jpg" group-title="Sports",UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports",FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="Sports",FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN GOAL LINE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFLREDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FOXCOLLEGESPORTSCENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ELEVEN SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png" group-title="Sports",CBS Sports Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",GOLF NETWORK
+http://203.162.235.41:16924
+
